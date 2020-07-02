@@ -36,7 +36,7 @@ main{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url('/img/wood.jpg');
+    background-image: url('../img/wood.jpg');
     background-position: center;
     background-size: cover;
 }
