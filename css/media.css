@@ -2,34 +2,20 @@
 
 
 .todo h1{
-    font-size: 15px;
+    font-size: 17px;
 }
 .alert{
-    font-size: 12px;
+    font-size: 14px;
 }
 .input{
     width: 60%;
 }
 .li{
-    font-size: 12px;
+    font-size: 14px;
 }
 button{
-    font-size: 10px;
+    font-size: 12px;
 }
 }
 
 
-@media (max-width: 480px){
-    
-    .todo h1{
-        font-size: 12px;
-    }
-    .alert{
-        font-size: 10px;
-    }
-
-.li{
-    font-size: 10px;
-}
-
-}
